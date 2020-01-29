@@ -27,7 +27,7 @@
     }
   }
   
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 1001px) {
     body {
       background-color: pink;
       color: darkred;
